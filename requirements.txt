@@ -1,0 +1,15 @@
+altair
+certifi
+Flask
+Fortuna
+gunicorn
+Jinja2
+joblib
+jupyter
+numpy
+pandas
+pymongo[srv]
+python-dotenv
+scikit-learn
+scipy
+pytest
